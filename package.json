@@ -23,5 +23,9 @@
     "express": "^4.9.0",
     "browserify": "^5.11.2",
     "debowerify": "^0.8.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "gulp-load-plugins": "^0.6.0"
   }
 }
