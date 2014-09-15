@@ -1,0 +1,27 @@
+{
+  "name": "angular-environment",
+  "version": "0.0.1",
+  "description": "angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mo-group/angular-environment.git"
+  },
+  "keywords": [
+    "ng"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mo-group/angular-environment/issues"
+  },
+  "homepage": "https://github.com/mo-group/angular-environment",
+  "dependencies": {
+    "express": "^4.9.0",
+    "browserify": "^5.11.2",
+    "debowerify": "^0.8.1"
+  }
+}
